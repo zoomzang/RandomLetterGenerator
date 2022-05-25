@@ -1,0 +1,10 @@
+C:\Users\zoomz\source\repos\RandomLetterGenerator\RandomLetterGenerator\bin\Debug\RandomLetterGenerator.exe.config
+C:\Users\zoomz\source\repos\RandomLetterGenerator\RandomLetterGenerator\bin\Debug\RandomLetterGenerator.exe
+C:\Users\zoomz\source\repos\RandomLetterGenerator\RandomLetterGenerator\bin\Debug\RandomLetterGenerator.pdb
+C:\Users\zoomz\source\repos\RandomLetterGenerator\RandomLetterGenerator\obj\Debug\RandomLetterGenerator.csproj.AssemblyReference.cache
+C:\Users\zoomz\source\repos\RandomLetterGenerator\RandomLetterGenerator\obj\Debug\RandomLetterGenerator.Form1.resources
+C:\Users\zoomz\source\repos\RandomLetterGenerator\RandomLetterGenerator\obj\Debug\RandomLetterGenerator.Properties.Resources.resources
+C:\Users\zoomz\source\repos\RandomLetterGenerator\RandomLetterGenerator\obj\Debug\RandomLetterGenerator.csproj.GenerateResource.cache
+C:\Users\zoomz\source\repos\RandomLetterGenerator\RandomLetterGenerator\obj\Debug\RandomLetterGenerator.csproj.CoreCompileInputs.cache
+C:\Users\zoomz\source\repos\RandomLetterGenerator\RandomLetterGenerator\obj\Debug\RandomLetterGenerator.exe
+C:\Users\zoomz\source\repos\RandomLetterGenerator\RandomLetterGenerator\obj\Debug\RandomLetterGenerator.pdb
