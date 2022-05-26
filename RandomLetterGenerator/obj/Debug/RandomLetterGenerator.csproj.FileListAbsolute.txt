@@ -8,3 +8,8 @@ C:\Users\zoomz\source\repos\RandomLetterGenerator\RandomLetterGenerator\obj\Debu
 C:\Users\zoomz\source\repos\RandomLetterGenerator\RandomLetterGenerator\obj\Debug\RandomLetterGenerator.csproj.CoreCompileInputs.cache
 C:\Users\zoomz\source\repos\RandomLetterGenerator\RandomLetterGenerator\obj\Debug\RandomLetterGenerator.exe
 C:\Users\zoomz\source\repos\RandomLetterGenerator\RandomLetterGenerator\obj\Debug\RandomLetterGenerator.pdb
+C:\Users\zoomz\source\repos\RandomLetterGenerator\RandomLetterGenerator\bin\Debug\Interop.WMPLib.dll
+C:\Users\zoomz\source\repos\RandomLetterGenerator\RandomLetterGenerator\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\zoomz\source\repos\RandomLetterGenerator\RandomLetterGenerator\obj\Debug\Interop.WMPLib.dll
+C:\Users\zoomz\source\repos\RandomLetterGenerator\RandomLetterGenerator\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\zoomz\source\repos\RandomLetterGenerator\RandomLetterGenerator\obj\Debug\RandomLetterGenerator.csproj.ResolveComReference.cache
